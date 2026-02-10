@@ -47,3 +47,8 @@ Day 2: Variables and Data Types.
   * Basic string operations
   * Mini Project: Build a simple Bio Genarator using user input and print().
   
+Day 3: Operators and Expressions.
+  * Arithmetic operations 
+  * Comparison operations
+  * Logical operations
+  * Order of operations(PEMDAS)
