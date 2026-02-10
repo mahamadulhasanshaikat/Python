@@ -1,11 +1,13 @@
 # Python
 
 Day 1: Introduction to Python.
-  * What is Python?\n
+  * What is Python?
+
     Python is a high-level, interpreted, and general purpose programming language. It was created by Guido van Rossum and released in 1991. Python is designed to be easy to read and write. Its syntax is similar to the English language, which makes it very beginner friendly.
 
   * Why Python?
     Python is popular for many reasons:
+    
     #Easy to Learn and Use
     Simple and readable syntax
 
