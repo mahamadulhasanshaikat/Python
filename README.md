@@ -45,5 +45,5 @@ Day 2: Variables and Data Types.
   * Type conversion
   * input() function for user input
   * Basic string operations
-Mini Project: Build a simple Bio Genarator using user input and print().
+ * Mini Project: Build a simple Bio Genarator using user input and print().
   
