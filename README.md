@@ -52,3 +52,10 @@ Day 3: Operators and Expressions.
   * Comparison operations
   * Logical operations
   * Order of operations(PEMDAS)
+
+Day 4: Conditional Statements.
+  * if, else, elif 
+  * Indentation rules
+  * Logical conditionals
+  * Mini Project: Grading system: Take user marks and print the grade.
+  * Activity: Create a base calculator with input value.
