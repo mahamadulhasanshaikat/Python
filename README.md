@@ -59,3 +59,11 @@ Day 3: Conditional Statements.
   * Logical conditionals
   * Mini Project: Grading system: Take user marks and print the grade.
   * Activity: Create a base calculator with input value.
+
+Day 4: Loops and Iteration.
+  * While loop
+  * For loops with range()
+  * Loop control: break, continue, pass
+  * Nested loops
+  * Mini Project: Number gussing game or multiplication table generator.
+  
