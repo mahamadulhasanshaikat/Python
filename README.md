@@ -67,3 +67,9 @@ Day 4: Loops and Iteration.
   * Nested loops
   * Mini Project: Number gussing game or multiplication table generator.
   
+  Day 5: Functions in Python.
+  * Defining functions
+  * Parameters and return values
+  * Scope (Local vs Global)
+  * Build in vs user defined functions
+  * Mini Project: Tip Calculator using functions.
