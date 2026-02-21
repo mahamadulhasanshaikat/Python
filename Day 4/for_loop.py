@@ -1,8 +1,9 @@
-# For Loop with range()
-# For loop একদম fixed iteration এর জন্য use হয়।
+#Str
+#for i range(start, stop, step)
+
 # Example: Print 1 to 5
 for i in range(1, 6):
-    print(i)
+    print("Number: ",i)
 
 #range(start, stop, step)
 #stop number itself include হয় না
