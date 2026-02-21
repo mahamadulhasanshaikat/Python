@@ -9,3 +9,9 @@ for i in range(1, 6):
 #stop number itself include হয় না
 for i in range(0, 10, 2):  # Step = 2
     print(i)
+
+
+#List print
+fruits = ["Apple", "Banana", "Cherry"]
+for fruit in fruits:
+    print(fruits)
