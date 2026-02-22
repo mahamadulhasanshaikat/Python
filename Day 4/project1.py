@@ -1,6 +1,7 @@
 #Number gussing game
 
 import random
+
 # Random number between 1 and 50
 number = random.randint(1, 50)
 attempts = 0
